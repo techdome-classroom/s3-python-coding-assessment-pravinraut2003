@@ -11,7 +11,7 @@ class Solution(object):
             if char in bracket_map:
                 top_element=stack.pop() if stack else '#'
                 if 
-                bracket_map[char]!=
+                bracket_map[char]!=top_element:
         pass
 
 
