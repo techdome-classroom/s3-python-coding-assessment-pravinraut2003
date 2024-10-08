@@ -18,6 +18,7 @@ class Solution(object):
                 return not stack 
             print(isvalid("()"))
             print(isValid("()"))
+            
 
         pass
 
