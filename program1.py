@@ -12,8 +12,9 @@ class Solution(object):
                 top_element=stack.pop() if stack else '#'
                 if 
                 bracket_map[char]!=top_element:
-                return Falsee
-            se:
+                return False
+            else:
+                
 
         pass
 
