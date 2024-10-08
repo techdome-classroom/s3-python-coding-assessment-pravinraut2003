@@ -14,7 +14,7 @@ class Solution(object):
                 bracket_map[char]!=top_element:
                 return False
             else:
-                stack.append
+                stack.append(char)
 
         pass
 
