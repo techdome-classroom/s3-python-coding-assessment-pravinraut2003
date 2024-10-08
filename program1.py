@@ -16,10 +16,7 @@ class Solution(object):
             else:
                 stack.append(char)
                 return not stack 
-             print(isvalid("()")) 
-            true
-            print(isValid("()"))
-
+            
 
         pass
 
