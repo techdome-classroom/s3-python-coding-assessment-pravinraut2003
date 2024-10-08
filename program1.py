@@ -16,9 +16,9 @@ class Solution(object):
             else:
                 stack.append(char)
                 return not stack 
-            print(isvalid("()"))
+             print(isvalid("()"))
             print(isValid("()"))
-            
+
 
         pass
 
