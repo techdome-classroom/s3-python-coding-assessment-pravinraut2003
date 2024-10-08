@@ -16,7 +16,7 @@ class Solution(object):
             else:
                 stack.append(char)
                 return not stack 
-            print(is)
+            print(isvalid)
 
         pass
 
